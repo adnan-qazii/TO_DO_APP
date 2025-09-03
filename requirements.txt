@@ -5,3 +5,4 @@ sqlalchemy
 psycopg2-binary
 passlib
 python-jose
+python-multipart
